@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Author almy
 # Función para solicitar entrada del usuario
 function solicitar_entrada {
     read -p "$1" valor
